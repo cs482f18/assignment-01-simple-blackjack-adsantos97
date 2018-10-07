@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9ACD32</color>
+    <color name="colorPrimaryDark">#556B2F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="backgroundColor">#FFFFE0</color>
+    <color name="hitColor">#FFD700</color>
+    <color name="standColor">#FA8072</color>
+    <color name="newGameColor">#66CDAA</color>
+    <color name="buttonTextColor">#FFF</color>
+    <color name="resultColor">#FFE4E1</color>
+</resources>

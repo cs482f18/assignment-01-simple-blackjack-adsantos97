@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Simple Blackjack</string>
+    <string name="dealer_text">Dealer\'s Hand:</string>
+    <string name="player_text">Player\'s Hand:</string>
+    <string name="hit">Hit</string>
+    <string name="stand">Stand</string>
+    <string name="new_game">New Game</string>
+    <string name="sum_text_start">00</string>
+    <string name="current_sum">%d</string>
+    <string name="blackjack_winner">Blackjack Winner!</string>
+    <string name="bust_text">You Bust! You Lose!</string>
+    <string name="player_wins">Player Wins!</string>
+    <string name="dealer_wins">Dealer Wins!</string>
+    <string name="tie">Tie!</string>
+</resources>
